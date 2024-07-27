@@ -6,6 +6,6 @@ I'm studying at Faculty of Electrical Engineering and Computer Science in Maribo
 ---
 
 - ⚙️ I code in: `.py`, `.java`, `.js`, `.ts`
-- 👾 Participating on [HackTheBox](https://app.hackthebox.com/universities/overview/783)
-- 🌍 Member of [Hack Club FERI](https://hackclub.feri.um.si)
+- 🌍 I'm participating on [HackTheBox](https://app.hackthebox.com/universities/overview/783)
+- 👾 Member of [Hack Club FERI](https://hackclub.feri.um.si)
 - 🥷 Member of ctf group [r0ck_1Q-T34M](https://ctftime.org/team/231560) 
